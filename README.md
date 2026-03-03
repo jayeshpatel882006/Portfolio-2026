@@ -101,21 +101,15 @@ https://jayeshpatel882006.github.io/Portfolio-2026/
 
 ## 🤝 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/yourprofile
+* 💼 LinkedIn: https://www.linkedin.com/in/patel-jayesh-487211245?utm_source=share_via&utm_content=profile&utm_medium=member_android
 * 💻 GitHub: https://github.com/jayeshpatel882006
-* 📧 Email: [yourmail@email.com](mailto:yourmail@email.com)
+* 📧 Email: [jayeshpatelswamk1@gmail.com](mailto:jayeshpatelswami1@gmail.com)
 
 ---
 
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
-
----
-
-## 📄 License
-
-This project is open-source and available under the **MIT License**.
 
 ---
 
