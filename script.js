@@ -218,8 +218,7 @@
     "Cloud Computing Student",
     "Full Stack Developer",
     "Problem Solver",
-    "DevOps Enthusiast",
-    "Open Source Contributor",
+    "DevOps Enthusiast"
   ];
 
   let roleIdx = 0;
