@@ -103,7 +103,7 @@ https://jayeshpatel882006.github.io/Portfolio-2026/
 
 * 💼 LinkedIn: https://www.linkedin.com/in/patel-jayesh-487211245?utm_source=share_via&utm_content=profile&utm_medium=member_android
 * 💻 GitHub: https://github.com/jayeshpatel882006
-* 📧 Email: [jayeshpatelswamk1@gmail.com](mailto:jayeshpatelswami1@gmail.com)
+* 📧 Email: [jayeshpatelswami1@gmail.com](mailto:jayeshpatelswami1@gmail.com)
 
 ---
 
