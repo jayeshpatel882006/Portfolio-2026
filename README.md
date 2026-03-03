@@ -38,7 +38,7 @@ Hi, I'm **Jayesh Patel** 👋
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/yourusername.github.io.git
+git clone https://github.com/jayeshpatel882006/Portfolio-2026
 ```
 
 ### 2️⃣ Open locally
@@ -67,7 +67,7 @@ Steps:
 Your site will be live at:
 
 ```
-https://yourusername.github.io
+https://jayeshpatel882006.github.io/Portfolio-2026/
 ```
 
 ---
