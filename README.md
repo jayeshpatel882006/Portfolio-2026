@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website repository 🚀
 This website showcases my **skills, projects, education, and expertise** as a **Cloud Computing & Full Stack Developer**.
 
-🔗 **Live Website:** https://jayeshpatel882006.github.io
+🔗 **Live Website:** https://jayeshpatel882006.github.io/Portfolio-2026/
 
 ---
 
